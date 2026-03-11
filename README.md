@@ -42,6 +42,8 @@ Network
 NMAP TCP Scan Detected  
 Source IP: 192.168.222.1  
 Destination IP: 192.168.222.133
+https://drive.google.com/file/d/1G3Zj-gSMXPl3oe-y-wKEZ1EfNXDFslGG/view?usp=drive_link
+
 
 ## Purpose
 The goal of this project is to demonstrate basic SOC monitoring workflow by detecting reconnaissance activity and generating real-time alerts.
